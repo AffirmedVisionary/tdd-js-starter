@@ -1,12 +1,13 @@
 # Stats Calculator Kata
 
 Write a function that processes a sequence of integer numbers and determines the following:
+
 - the minimum value in the sequence
 - the maximum value in the sequence
 - the average value of the sequence
 - the number of elements in the sequence
 
-<u>**Example**</u>
+## Example
 
 For sequence: `[6, 9, 15, -2, 92, 11]`
 
